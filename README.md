@@ -15,8 +15,7 @@ Golang, OTP and AWS Architecture
 OTP and Fair Service a tool used to get information about Fairs across the country.
 
 - 🤔 I’m looking for help with ...
-Fair Service UI, A system used to 
-
+Fair Service UI
 - 💬 Ask me about ...
 Terraform, AWS, Systems Architecture
 
